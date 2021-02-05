@@ -25,7 +25,7 @@ li > a {
   display: inline-block;
   font-size: 40px;
   letter-spacing: 20px;
-  color: rgba(39, 111, 191, 1);
+  color: rgb(56, 72, 90);
 }
 
 li > a:hover {
@@ -123,7 +123,7 @@ h2 {
 }
 
 #btn-fun {
-  background-color: rgba(255, 177, 0, 1);
+  background-color: rgb(247, 132, 237);
   border: 1px solid white;
   border-radius: 4px;
   color: white;
@@ -136,7 +136,7 @@ h2 {
 
 #btn-fun:hover {
   background: white;
-  color: rgba(255, 177, 0, 1);
+  color: rgb(238, 122, 248);
   transition: 0.2s;
 }
 
@@ -162,7 +162,7 @@ h2 {
 }
 
 #fun:hover {
-  background: rgba(255, 177, 0, 1);
+  background: rgb(253, 163, 241);
   color: white;
   transition: 0.6s;
 }
